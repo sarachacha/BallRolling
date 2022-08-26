@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4300e399-b07f-4e81-a11e-ebe0fb68d3f9}">
+		<property name="assetPath">
+			<value>41247-FOLEY_RUBBER_BALL_BOUNCE_SINGLE_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.18911564625850341</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dd99d1ec-3da2-4ffa-b943-9e229cca5970}</destination>
+		</relationship>
+	</object>
+</objects>
